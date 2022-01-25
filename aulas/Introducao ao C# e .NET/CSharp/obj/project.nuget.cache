@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SE0nHWY7qEQCeB3R8KnAwmLs6lReQDjUEaXI59xYAGMUbvGMuJo8KbgMZ9XdcCvNedKHC3FO+UuNimLXzxzwDw==",
+  "success": true,
+  "projectFilePath": "H:\\Arquivos de Programas\\OneDrive\\GitHub\\dio-desafio-github\\aulas\\Introducao ao C# e .NET\\CSharp\\CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
